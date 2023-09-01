@@ -1,47 +1,48 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Lauren Forrest, PhD
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Lauren
+last_name: Forrest
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: NOW - Penn State College of Medicine
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+  - name: SOON - University of Oregon (Fall 2024)
+    url: www.psychology.uoregon.edu
+
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Eating disorders
+  - Suicidal thoughts and behaviors
+  - Applying advanced quantitative methods to clinical science
+  - Instersectionality
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Clinical Psychology
+      institution: Miami University
+      year: 2020
+    - course: Predoctoral Clinical Internship
+      institution: Yale School of Medicine
+      year: 2020
+    - course: Bachelor of Science in Psychology
+      institution: University of Utah
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,22 +51,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:lauren.forrest@psu.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://twitter.com/ln_forrest
+    label: ''
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://scholar.google.com/citations?user=4v7Cll4AAAAJ&hl=en
+  
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -80,5 +76,13 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+My lab is dedicated to determining how suicide and eating disorders can be effectively predicted, treated, and prevented. We do this work because suicide and eating disorders are devastating. They affect millions of people worldwide, though the burdens are not felt equally across the population. My lab conducts research to clarify particularly at-risk groups through an intersectionality lens, understand multilevel risk processes within these intersectional at-risk groups, and develop and disseminate effective interventions for these groups. 
+
+For example, my current eating disorders work investigates structural processes contributing to eating disorder prevalence at the intersection of gender, sexual orientation, and race. My current suicide work investigates multilevel suicide risk processes at the intersection of rurality and sexual orientation. Suicide and eating disorders are incredibly complex, so much of my work uses advanced quantitative methods to capture and model this complexity.
+
+My lab is currently housed in the Department of Psychiatry & Behavioral Health at the Pennsylvania State University College of Medicine. I'm beyond excited that in **Fall 2024**, my lab will move to the [Department of Psychology](https://www.psychology.uoregon.edu) at the **University of Oregon.** 
+
+**I will be reviewing clinical psychology PhD applications** for students interested in **eating disorders** and/or **suicide** for Fall 2024 admission. See the [2024 Applicants]({{< relref "/applicants" >}})
+section for more info. I'll also be hiring a lab manager to begin September 2024. More details to come on this position!
+
 {style="text-align: justify;"}
