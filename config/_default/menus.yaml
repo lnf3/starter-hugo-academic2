@@ -17,7 +17,7 @@ main:
   - name: 2024 Applicants
     url: '#applicants'
     weight: 41
-  - name: Commitment to Diversity, Equity, and Inclusion
+  - name: Commitment to DEI
     url: '#dei'
     weight: 50
   - name: Resources

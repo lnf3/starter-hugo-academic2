@@ -9,7 +9,9 @@ share: false
 
 ---
 
-Sarah is my lab's research coordinator at Penn State College of Medicine. Sarah plans to apply to quantitative psychology PhD programs for Fall 2024.
+
+Sarah is my lab's research coordinator at Penn State College of Medicine. She graduated from Penn State in 2019 with a BS in Statistics. Sarah plans to apply to quantitative and clinical psychology PhD programs for Fall 2024. She is particularly interested in using data to inform real-world psychopathology conceptualization, treatment and prevention, especially for people in underserved communities. 
+
 
 **Sarah's papers and projects in my lab include:**
 
