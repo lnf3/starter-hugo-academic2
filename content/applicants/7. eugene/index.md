@@ -11,7 +11,7 @@ share: false
 
 The University of Oregon is located in Eugene, Oregon.  
 
-I will move from Pennsylvania to Oregon in summer 2024 (with 3 medium-large senior dogs and 20+ houseplants, some of which are as old as I am...wish me luck!). While I'm not a Eugene officianado yet, below is a bit of info on Eugene. I'll update this page with more info over time.
+I will move from Pennsylvania to Oregon in summer 2024 (with 3 medium-large senior dogs and 20+ houseplants, some of which are as old as I am...wish me luck!). While I'm not a Eugene expert yet, below is a bit of info on Eugene. I'll update this page with more info over time.
 
 1. Eugene has a lush landscape with green...everywhere, which makes sense considering that Eugene has been nicknamed the "Emerald City." It's a dream location if you're into mountains, hiking, and/or nature. I took the pic above from Spencer Butte (a popular Eugene hiking spot) in January 2023. Not too bad for January weather!<br><br>
 

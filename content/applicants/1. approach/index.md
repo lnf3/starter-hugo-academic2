@@ -12,7 +12,7 @@ show_breadcrumb: true
 
 **My general perspectives as a mentor**
 
-**1.	You can do hard things.** I want to help you identify challenging but doable goals. If you haven’t analyzed data before, let’s get you started on some analyses! If you haven’t written an Introduction before, let’s get you started on lit reviewing and outlining! If you want to learn a new statistical method, even a really complicated one that’s a little intimidating, let’s find you resources to learn! You can do hard things.
+**1.	You can do hard things.** I want to help you identify challenging but doable goals. If you haven’t analyzed data before, let’s get you started on some analyses! If you haven’t written an Introduction before, let’s get you started on lit reviewing and outlining! If you want to learn a new statistical method, even a really complicated one that’s a little intimidating, let’s find you resources to learn! Why? Because you can do hard things.
 
 **2.	I want to help you find what YOU want to do and make sure you have the skills to do it.** My goal for postdocs, graduate students, post-baccs, and undergraduate students is NOT for you to become a mini-me. I want to help you find your niche—what you’re good at, what you’re interested in, what keeps you up at night wondering about. Your things don’t have to be (and shouldn’t necessarily be) my exact things. 
 
