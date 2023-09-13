@@ -60,6 +60,7 @@ sections:
   - block: portfolio
     id: team
     content:
+      sort_ascending: true
       buttons:
         - name: All
           tag: '*'
@@ -196,7 +197,7 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: lauren.forrest@psu.edu
+      email: lnf@uoregon.edu
     design:
       columns: '1'
 
