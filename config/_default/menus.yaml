@@ -23,12 +23,13 @@ main:
   - name: Resources
     url: '#resources'
     weight: 60
-  - name: CV
-    url: 'uploads/resume.pdf'
-    weight: 70
   - name: Bonus content - Lab pets!
     url: '#pets'
+    weight: 70
+  - name: CV
+    url: 'uploads/resume.pdf'
     weight: 80
+ 
 
 
 
