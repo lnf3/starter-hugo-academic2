@@ -17,6 +17,7 @@ name = "my_theme"
   
   link = "#2d7d4a"
   link_hover = "#2d7d4a"
+  link_decoration = "underline"
 
 [dark]
   # Primary
