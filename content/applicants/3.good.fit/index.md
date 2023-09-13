@@ -15,7 +15,19 @@ This list is not exhaustive, and sometimes “fit” is not entirely quantifiabl
 
 **2.  You have relevant experience**. For example, you completed a senior thesis, worked as a post-bacc research coordinator, OR you have experience doing other things that required systematic adherence to a procedure or protocol (e.g., you did computer coding, you managed an extremely difficult scheduling system, etc.)
 
-**3.  You are already savvy with stats and want to get even more savvy, and you want to apply your stats skills to topics like suicide and/or eating disorders.** Stats skills are especially desirable, given the intensive longitudinal data I’m currently collecting and plan to collect in the future and the big datasets I'm analyzing. If you have these skills, please highlight them in your personal statement!
+**3.  You are already savvy with stats and want to get even more savvy, and you want to apply your stats skills to topics like suicide and/or eating disorders.** Stats interests and/or skills are especially desirable, given the intensive longitudinal data I’m currently collecting and plan to collect in the future and the big datasets I'm analyzing. If you have these interests and/or skills, please highlight them in your personal statement!
+
+Examples of stats-savviness include (but are not limited to):
+- using R
+- data wrangling and management
+- writing and using syntax
+- big data
+- multilevel data
+- ecological momentary assessment data
+- longitudinal and time series data/modeling
+- idiographic methods
+- machine learning
+- data visualization
 
 **4.  You can balance multiple demands and projects at once.**
 
