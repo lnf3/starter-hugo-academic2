@@ -29,7 +29,7 @@ interests:
   - Eating disorders
   - Suicidal thoughts and behaviors
   - Applying advanced quantitative methods to clinical science
-  - Instersectionality
+  - Intersectionality
 
 # Education to show in About widget
 education:
