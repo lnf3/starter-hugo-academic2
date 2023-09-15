@@ -200,6 +200,7 @@ sections:
       email: lnf@uoregon.edu
     design:
       columns: '1'
+      view: masonry
 
 
 
