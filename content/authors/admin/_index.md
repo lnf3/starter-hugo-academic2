@@ -21,7 +21,7 @@ organizations:
   - name: NOW - Penn State College of Medicine
 
   - name: SOON - University of Oregon (Fall 2024)
-    url: www.psychology.uoregon.edu
+    url: https://psychology.uoregon.edu/profile/lnf
 
 
 # Interests to show in About widget
