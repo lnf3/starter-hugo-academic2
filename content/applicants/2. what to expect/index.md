@@ -27,7 +27,7 @@ As an example, my research coordinator was drafting her very first, first-author
 
 **5. Weekly meetings.** I will meet with you one-on-one for 1 hour/week, with more or fewer meetings as needed. These are times to talk through your research projects, ongoing projects we’re working on together, professional development, how you’re adjusting to grad school/clinical work/the many other demands placed on grad students, etc. I anticipate we’ll be chatting via email or Slack throughout the week too. 
 
-**6. Lab meetings.** We’ll likely have weekly lab meetings, to talk through how things are going in the lab, do team building, talk through new projects, etc. PhD students are expected to be actively involved in mentoring undergraduate research assistants.
+**6. Lab meetings.** We’ll have weekly lab meetings to talk through how things are going in the lab, do team building, talk through new projects, etc. PhD students are expected to be actively involved in mentoring undergraduate research assistants, so that grads can begin building their own mentorship experiences and developing their own mentorship philosophy. 
 
 **7. Advocacy.** At an eating disorders conference several years ago, I attended a series of talks about defining recovery in eating disorders. During the Q&A, a person asked a question like “is advocacy (against diet culture, weight stigma, stereotypes about eating disorders, unrealistic body ideals, etc.) a necessary part of eating disorder recovery?” That was such a memorable question. Although I don’t have an empirical answer for this question, my philosophy is that advocacy—even in small, behavioral ways—is a necessary part of being a clinical psychologist.
 
