@@ -5,7 +5,7 @@ tags: []
 date: '2023-07-24T00:00:00Z'
 pager: true
 share: false
-show_breadcrumb: true
+show_breadcrumb: false
 
 
 ---

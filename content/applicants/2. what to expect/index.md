@@ -5,7 +5,7 @@ tags: []
 date: '2023-07-23T00:00:00Z'
 pager: true
 share: false
-show_breadcrumb: true
+show_breadcrumb: false
 
 ---
 **BEGINNING NOTE!** Below I've done my best to give you a preview of what it will be like to work with me. But my current and former mentees are truly the best source for this info. All the people listed in the [Research Team]({{< relref "/#team" >}}) section have consented for potential applicants to contact them with questions. I genuinely encourage you to reach out to them! As part of the interview day, you'll meet with at least one of these people (hopefully more, schedules permitting!).

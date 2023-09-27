@@ -4,7 +4,7 @@ summary: A preivew of what life in Eugene, OR is like
 tags: []
 date: '2023-07-31T00:00:00Z'
 pager: true
-show_breadcrumb: true
+show_breadcrumb: false
 share: false
 
 ---

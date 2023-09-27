@@ -4,7 +4,7 @@ summary: Lab data, publicly available data, collaborators' data
 tags: []
 date: '2023-07-26T00:00:00Z'
 pager: true
-show_breadcrumb: true
+show_breadcrumb: false
 share: false
 
 ---

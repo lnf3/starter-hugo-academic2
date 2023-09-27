@@ -5,7 +5,7 @@ tags: []
 date: '2023-07-25T00:00:00Z'
 share: false
 pager: true
-show_breadcrumb: true
+show_breadcrumb: false
 
 ---
 Psychology tells us that it’s helpful to know both what works and what doesn’t work. Though not exhaustive, here are some indicators that I might not be the best fit for you as a mentor.
