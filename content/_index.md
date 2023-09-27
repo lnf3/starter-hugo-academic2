@@ -45,6 +45,7 @@ sections:
     id: current
     content:
       title: Current Projects
+      sort_ascending: true
       filters:
         folders:
           - project_current
