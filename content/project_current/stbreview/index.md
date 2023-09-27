@@ -5,6 +5,7 @@ summary: This review summarizes the results of >140 studies investigating factor
  
 date: '2023-07-24T00:00:00Z'
 show_breadcrumb: false
+pager: true
 
 image:
   caption: PRISMA diagram of review process
