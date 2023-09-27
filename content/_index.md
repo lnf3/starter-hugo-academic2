@@ -17,6 +17,7 @@ sections:
   - block: portfolio
     id: overview
     content:
+      sort_ascending: true
       buttons:
         - name: All
           tag: '*'
@@ -45,6 +46,7 @@ sections:
     id: current
     content:
       title: Current Projects
+      sort_ascending: true
       filters:
         folders:
           - project_current
