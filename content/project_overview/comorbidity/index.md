@@ -10,6 +10,7 @@ image:
   focal_point: Smart
 share: false
 show_breadcrumb: false
+pager: true
 
 
 ---

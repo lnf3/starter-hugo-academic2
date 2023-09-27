@@ -5,6 +5,7 @@ summary: What does the data tell us about eating disorders?
 date: "2023-07-25T00:00:00Z"
 share: false
 show_breadcrumb: false
+pager: true
 
 image:
   caption: Forrest & Grilo (2020). Psychological Medicine

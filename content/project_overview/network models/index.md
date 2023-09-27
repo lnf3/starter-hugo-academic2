@@ -5,6 +5,7 @@ summary: Network models of eating disorders
 date: "2023-07-25T00:00:00Z"
 share: false
 show_breadcrumb: false
+pager: true
 
 tags:
 - Eating disorders

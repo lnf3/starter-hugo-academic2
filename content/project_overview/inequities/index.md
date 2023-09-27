@@ -10,6 +10,7 @@ image:
   focal_point: Smart
 
 show_breadcrumb: false
+pager: true
 
 tags:
 - Suicide
