@@ -80,7 +80,7 @@ My lab is dedicated to determining how suicide and eating disorders can be effec
 
 For example, my current eating disorders work investigates structural processes contributing to eating disorder prevalence at the intersection of gender, sexual orientation, and race. My current suicide work investigates multilevel suicide risk processes at the intersection of rurality and sexual orientation. Suicide and eating disorders are incredibly complex, so much of my work uses advanced quantitative methods to capture and model this complexity.
 
-My lab is currently housed in the Department of Psychiatry & Behavioral Health at the Pennsylvania State University College of Medicine. I'm beyond excited that in **Fall 2024**, my lab will move to the [Department of Psychology](https://www.psychology.uoregon.edu) at the **University of Oregon.** 
+My lab is currently housed in the Department of Psychiatry & Behavioral Health at the Pennsylvania State University College of Medicine. I'm beyond excited that in **Fall 2024**, my lab will move to the [Department of Psychology](https://cas.uoregon.edu/directory/psychology/all/lnf) at the **University of Oregon.** 
 
 **I will be reviewing clinical psychology PhD applications** for students interested in **eating disorders** and/or **suicide** for Fall 2024 admission. See the [2024 Applicants]({{< relref "/#applicants" >}}) section for more info. I'll also be hiring a lab manager to begin September 2024. More details to come on this position!
 

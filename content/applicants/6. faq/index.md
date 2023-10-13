@@ -45,7 +45,7 @@ Whether you have publications or not, I will be looking for students whose perso
 
 **6. Do I need to have research and/or clinical experience related to eating disorders and/or suicide in order to apply?** No. If you do have these experiences, amazing--please tell me about them! If you don't have these experiences, no worries. Your skills and knowledge from other relevant experiences will probably translate to my topic areas. However, it will be important for you to explain in your personal statement why you're interested in specializing in eating disorders and/or suicide. How did you become interested in either or both of these topics? What interests you specifically about these topics? What types of questions do you want to study related to these topics?
 
-**7. Do I need to take the GRE?** Nope. [UO does not require the GRE.](https://psychology.uoregon.edu/graduates/doctoral-program/doctoral-admissions)
+**7. Do I need to take the GRE?** Nope. [UO does not require the GRE.](https://naturalsciences.uoregon.edu/psychology/apply/graduate-admissions#FAQ-doctoral-students)
 
 **8. Pro tips.** There are lots of resources out there to help guide you through effectively applying to clinical psychology PhD programs. Here's a few:
 
