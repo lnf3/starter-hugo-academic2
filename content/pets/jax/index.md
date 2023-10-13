@@ -1,6 +1,6 @@
 ---
 title: Jax 
-summary: []
+summary: My three-legged guy who has come so far
 date: '2023-07-26T00:00:00Z'
 pager: true
 share: false
