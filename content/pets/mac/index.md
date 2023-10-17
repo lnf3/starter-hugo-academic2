@@ -1,6 +1,6 @@
 ---
 title: Mac
-summary: The love of my life (no shade to my husband!)
+summary: My soul dog
 date: '2023-07-27T00:00:00Z'
 pager: true
 share: false
