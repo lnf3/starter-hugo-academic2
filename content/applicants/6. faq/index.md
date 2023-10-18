@@ -20,10 +20,12 @@ share: false
 
 **5. Pro tip for personalizing a personal statement to a professor.** Effectively personalizing your personal statement to a professor is hard. Here are some quick thoughts on sentiments that are less vs. more convincing. 
 
-**Less convincing:** "I'm applying to X professor because our research interests align," or "I'm applying to X lab because I'm passionate about Y topic." Those sentiments aren't super convincing because they're essentially pre-requisites for someone applying to that lab, meaning that they're not going to distinguish you from other applicants. These sentiments also don't show PIs how you (specifically) think. Speaking only for myself, I want personal statements to give me a preview of how you think! I love chatting with and working with people who think about things in unique ways, who think critically, who think systematically, who see things from angles I haven't considered, etc.
+**Less convincing:** The examples below aren't super convincing because they're essentially pre-requisites for someone applying to a PI's lab. These will not distinguish you from other applicants to that lab. These examples also don't show PIs how you (specifically) think. I would love for your personal statement to give me a preview of how you think, because I love chatting with and working with people who think about things in unique ways, who think critically, who think systematically, who see things from angles I haven't considered, etc. 
+- "I'm applying to X professor because our research interests align."
+- "I'm applying to X lab because I'm passionate about Y topic." 
 
 **More convincing:** Ask yourself some or all of the following questions. Your answers are things you may want to use to communicate a clear, effective, distinguishing explanation for why you're applying to a specific lab. 
-- What types of questions might you want to ask in this lab specifically? Why are these questions interesting? How are they innovative? What excites you about them?
+- What types of specific questions or topics might you want to ask or study in this lab specifically? Why are these questions interesting? How are they innovative? What excites you about them?
 - What types of skills might you want to learn in this lab specifically? How might these skills prepare you for your next steps post-PhD? 
 - Is there training in a particular type of intervention that you’d get? If so, why do you care about that and why is it interesting to you specifically? (although I'm not currently doing intervention work [though plan to in the future], this Q might be good to ask yourself for labs that are doing intervention work)
 - How does this lab align with and/or expand on what you’ve done before? How might your previous experiences bring a new perspective to the lab and expand the lab’s research?
