@@ -18,7 +18,17 @@ share: false
 
 **4. What should I highlight in my personal statement?** I think the most effective personal statements ***show*** rather than ***tell***. For instance, I noted in my "Who is a good fit" document (#3 in this series) that people who have relevant experience are a good fit for me. In your personal statement, just saying "I did a senior thesis" or "I know how to follow a protocol" won't help me understand where you're coming from, what skills you have, how you think, or what you know. Instead, ***show*** me that you did that stuff. Walk me through what you did, why you did it, what you learned, how you stumbled and recovered, etc.
 
-**5. How much do you care about publications?** I don't care about publicaitons per se. What I care about is the experiences you've had that prepared you for doctoral-level study in a research-heavy environment. Publications *can* (but not always) be a way to document your preparation, but they're not the only way.
+**5. Pro tip for personalizing a personal statement to a professor.** Effectively personalizing your personal statement to a professor is hard. Here are some quick thoughts on sentiments that are less vs. more convincing. 
+
+**Less convincing:** "I'm applying to X professor because our research interests align," or "I'm applying to X lab because I'm passionate about Y topic." Those sentiments aren't super convincing because they're essentially pre-requisites for someone applying to that lab, meaning that they're not going to distinguish you from other applicants. These sentiments also don't show PIs how you (specifically) think. Speaking only for myself, I want personal statements to give me a preview of how you think! I love chatting with and working with people who think about things in unique ways, who think critically, who think systematically, who see things from angles I haven't considered, etc.
+
+**More convincing:** Ask yourself some or all of the following questions. Your answers are things you may want to use to communicate a clear, effective, distinguishing explanation for why you're applying to a specific lab. 
+- What types of questions might you want to ask in this lab specifically? Why are these questions interesting? How are they innovative? What excites you about them?
+- What types of skills might you want to learn in this lab specifically? How might these skills prepare you for your next steps post-PhD? 
+- Is there training in a particular type of intervention that you’d get? If so, why do you care about that and why is it interesting to you specifically? (although I'm not currently doing intervention work [though plan to in the future], this Q might be good to ask yourself for labs that are doing intervention work)
+- How does this lab align with and/or expand on what you’ve done before? How might your previous experiences bring a new perspective to the lab and expand the lab’s research?
+
+**6. How much do you care about publications?** I don't care about publicaitons per se. What I care about is the experiences you've had that prepared you for doctoral-level study in a research-heavy environment. Publications *can* (but not always) be a way to document your preparation, but they're not the only way.
 
  There are hundreds of details and decisions that go into completing a study and writing a manuscript. A  non-exhaustive list of these details includes things like:
  - coordinating a study administratively (IRBs, progress reports)
@@ -43,11 +53,11 @@ If you haven't had publications by the time of applying, please tell me about yo
 
 Whether you have publications or not, I will be looking for students whose personal statements convey the experiences and skills that **show** that they're well-prepared for this next stage of training, which will involve lots of involvement with writing and research (especially lots of involvement with managing and analyzing data...so if you have these experiences/skills, definitely highlight them!).
 
-**6. Do I need to have research and/or clinical experience related to eating disorders and/or suicide in order to apply?** No. If you do have these experiences, amazing--please tell me about them! If you don't have these experiences, no worries. Your skills and knowledge from other relevant experiences will probably translate to my topic areas. However, it will be important for you to explain in your personal statement why you're interested in specializing in eating disorders and/or suicide. How did you become interested in either or both of these topics? What interests you specifically about these topics? What types of questions do you want to study related to these topics?
+**7. Do I need to have research and/or clinical experience related to eating disorders and/or suicide in order to apply?** No. If you do have these experiences, amazing--please tell me about them! If you don't have these experiences, no worries. Your skills and knowledge from other relevant experiences will probably translate to my topic areas. However, it will be important for you to explain in your personal statement why you're interested in specializing in eating disorders and/or suicide. How did you become interested in either or both of these topics? What interests you specifically about these topics? What types of questions do you want to study related to these topics?
 
-**7. Do I need to take the GRE?** Nope. [UO does not require the GRE.](https://naturalsciences.uoregon.edu/psychology/apply/graduate-admissions#FAQ-doctoral-students)
+**8. Do I need to take the GRE?** Nope. [UO does not require the GRE.](https://naturalsciences.uoregon.edu/psychology/apply/graduate-admissions#FAQ-doctoral-students)
 
-**8. Pro tips.** There are lots of resources out there to help guide you through effectively applying to clinical psychology PhD programs. Here's a few:
+**9. Pro tips.** There are lots of resources out there to help guide you through effectively applying to clinical psychology PhD programs. Here's a few:
 
 - [Mitch Prinstein's Uncensored Advice](https://mitch.web.unc.edu/wp-content/uploads/sites/4922/2017/02/MitchGradSchoolAdvice.pdf)
 
