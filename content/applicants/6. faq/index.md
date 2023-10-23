@@ -30,7 +30,7 @@ share: false
 - Is there training in a particular type of intervention that you’d get? If so, why do you care about that and why is it interesting to you specifically? (although I'm not currently doing intervention work [though plan to in the future], this Q might be good to ask yourself for labs that are doing intervention work)
 - How does this lab align with and/or expand on what you’ve done before? How might your previous experiences bring a new perspective to the lab and expand the lab’s research?
 
-**6. How much do you care about publications?** I don't care about publicaitons per se. What I care about is the experiences you've had that prepared you for doctoral-level study in a research-heavy environment. Publications *can* (but not always) be a way to document your preparation, but they're not the only way.
+**6. How much do you care about publications?** I don't care about publications per se. What I care about is the experiences you've had that prepared you for doctoral-level study in a research-heavy environment. Publications *can* be a way to document your preparation, but they're not the only way.
 
  There are hundreds of details and decisions that go into completing a study and writing a manuscript. A  non-exhaustive list of these details includes things like:
  - coordinating a study administratively (IRBs, progress reports)
