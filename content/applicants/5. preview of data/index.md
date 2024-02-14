@@ -18,7 +18,7 @@ Conducting studies using previously-collected data is a great way to learn more 
 **Lab datasets**<br>
 *Note.* All my datasets include both eating disorder & suicide data.
 
-1. Ecological momentary assessment data on suicide risk processes in rural adults
+1. Ecological momentary assessment data on suicide risk processes in roughly 100 rural sexual minority adults
 
 2. Short-term suicide predictor systematic review data
 
