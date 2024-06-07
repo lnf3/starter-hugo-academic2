@@ -21,7 +21,7 @@ My advice is to keep in mind that everything you write in your statement of purp
 
 **2. What should I highlight in my statement of purpose?** I think the most effective personal statements ***show*** rather than ***tell***. For instance, I noted in my "Who is a good fit" document (#3 in this series) that people who have relevant experience are a good fit for me. In your personal statement, just saying "I did a senior thesis" or "I know how to follow a protocol" won't help me understand where you're coming from, what skills you have, how you think, or what you know. Instead, ***show*** me that you did that stuff. Walk me through what you did, why you did it, what you learned, how you stumbled and recovered, etc.
 
-**3. Pro tip for personalizing a personal statement to a professor.** Effectively personalizing your personal statement to a professor is hard. Here are some quick thoughts on sentiments that are less vs. more effective. 
+**3. Pro tip for personalizing a statement of purpose to a professor.** Effectively personalizing your statement of purpose to a professor is hard. Here are some quick thoughts on sentiments that are less vs. more effective. 
 
 **Less effective:** 
 - "I'm applying to X professor because our research interests align."
