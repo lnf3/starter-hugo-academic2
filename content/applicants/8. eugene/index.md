@@ -15,7 +15,7 @@ I will move from Pennsylvania to Oregon in summer 2024 (with 3 medium-large seni
 
 1. Eugene has a lush landscape with green...everywhere, which makes sense considering that Eugene has been nicknamed the "Emerald City." It's a dream location if you're into mountains, hiking, and/or nature. I took the pic above from Spencer Butte (a popular Eugene hiking spot) in January 2023. Not too bad for January weather!<br><br>
 
-2. Eugene is roughly a 1-hour drive to the Pacific ocean (driving west) and very large mountains (driving east). Eugene is roughly a 2-hour drive to Portland (driving north).<br><br>
+2. Eugene is roughly a 1-hour drive to the coast (driving west) and very large mountains (driving east). Eugene is roughly a 2-hour drive to Portland (driving north).<br><br>
 
 3. If proximity to a Trader Joe's impacts your quality of life, as it does mine, there is a Trader Joe's in Eugene!<br><br>
 
