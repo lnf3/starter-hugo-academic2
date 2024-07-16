@@ -19,7 +19,7 @@ role: Assistant Professor
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Oregon
-    url: https://psychology.uoregon.edu/profile/lnf
+    url: https://cas.uoregon.edu/directory/psychology/all/lnf
 
 
 # Interests to show in About widget
