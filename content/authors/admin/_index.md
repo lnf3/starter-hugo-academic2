@@ -78,6 +78,6 @@ My lab is dedicated to determining how suicide and eating disorders can be effec
 
 For example, my current eating disorders work investigates structural processes contributing to eating disorder prevalence at the intersection of gender, sexual orientation, and race. My current suicide work investigates multilevel suicide risk processes at the intersection of rurality and sexual orientation. Suicide and eating disorders are incredibly complex, so much of my work uses advanced quantitative methods to capture and model this complexity.
 
-**I will *likely* be reviewing clinical psychology PhD applications** for students interested in **eating disorders** and/or **suicide** for Fall 2025 admission. I'll post an official answer as soon as possible! See the [2025 Applicants]({{< relref "/#applicants" >}}) section for more info. I'll also be hiring a lab manager to begin September 2024. More details to come on this position!
+**I will be reviewing clinical psychology PhD applications** for students interested in **eating disorders** and/or **suicide** for Fall 2025 admission. See the [2025 Applicants]({{< relref "/#applicants" >}}) section for more info. I'll also be hiring a lab manager to begin September 2024. More details to come on this position!
 
 {style="text-align: justify;"}
