@@ -10,9 +10,9 @@ share: false
 ---
 
 
-**1. Will you be reviewing applications for a student to begin Fall 2025?** Probably. I'll update with an official answer as soon as possible!
+**1. Will you be reviewing applications for a student to begin Fall 2025?** Yep! <br> <br> Please note that I will only review applications that are submitted through the UO application portal. I will not review application materials sent directly to my email.
 
-**2. Should I email you to express interest in applying to your lab?** You **do not** need to email me just to let me know you're applying to my lab. Those emails are stressful for you to send but won't have an impact on how I review your application. Save yourself the stress. However, if you have questions that would determine whether you'd like to apply and that weren't answered elsewhere on my website, feel free to reach out to me and/or my current/previous mentees.
+**2. Should I email you to express interest in applying to your lab?** You **do not** need to email me just to let me know you're applying to my lab. Those emails are stressful for you to send but won't have an impact on how I review your application. Save yourself the stress. However, if you have questions that would determine whether you'd like to apply and that weren't answered elsewhere on my website, feel free to reach out to me and/or my current/previous mentees. 
 
 **3. Is UO's program fully funded?** Yes! [Funding is guaranteed](https://psychology.uoregon.edu/sites/psychology1.uoregon.edu/files/doctoral_student_handbook_fall_2023.pdf) for the first four years. Funding in the fifth and sixth year may be available (has been available for many, many years but is not officially guaranteed). Funding is provided through graduate employment (GE) positions, which cover [tuition and 95% of fees](https://psychology.uoregon.edu/sites/psychology1.uoregon.edu/files/student_admissions_outcomes_and_other_data_u23.pdf), and provide a stipend.
 
