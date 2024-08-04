@@ -199,7 +199,7 @@ sections:
       subtitle:
       text: 
       # Contact (add or remove contact options as necessary)
-      email: lnf@uoregon.edu
+      email: Lnf@uoregon.edu
     design:
       columns: '1'
       view: masonry
