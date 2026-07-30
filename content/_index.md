@@ -195,7 +195,7 @@ sections:
           tag: In memoriam
       default_button_index: 0
       title: Lab Pets
-      text: I am a proud mom to three pups. They are the loves of my life and a major source of my daily positive emotions. Some of our team members are also proud pet parents. To learn more about each creature who supports our team's wellbeing, click on each photo below. <br><br>
+      text: I am a proud mom to two pups currently, and two pups who have passed over the rainbow bridge. My dogs (both living and in memory) are the loves of my life and a major source of my daily positive emotions. Some of our team members are also proud pet parents. To learn more about each creature who supports our team's wellbeing, click on each photo below. <br><br>
       filters:
         folders:
           - pets
